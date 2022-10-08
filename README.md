@@ -9,7 +9,7 @@
 
 [freeCodeCamp.org](https://www.freecodecamp.org/) projektas skirtas mokymuisi
 
-Site published: (https://dirigentas.github.io/Colored_Markers/)
+Site published: https://dirigentas.github.io/Colored_Markers/
 
 ## Authors
 
